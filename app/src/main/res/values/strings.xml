@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="weather_details_not_fetched">Weather details not fetched</string>
+    <string name="error_fetching_coords">Error occurred while fetching coordinates</string>
+</resources>
