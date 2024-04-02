@@ -36,7 +36,7 @@ class HomeFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
 //        val homeViewModel =
-//            ViewModelProvider(this).get(HomeViewModel::class.java)
+//            ViewModelProvider(this).get(HomeViewModel::class.java) // TODO Use this when there is no DI (we are using Koin)
 
 
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
